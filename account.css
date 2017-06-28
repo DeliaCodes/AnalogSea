@@ -1,5 +1,5 @@
-/*
-*{
+
+/*{
 	border: 3px solid black;
 }
 */
@@ -19,26 +19,22 @@ img {
     margin-bottom: 20px;
 }
 
+form {
+	background-color: white;
+	width: 320px;
+	padding: 40px;
+	border-top: white 20px;
+	border-radius: 5px;
+}
+
 form h1 {
 	text-align: center;
 }
 
-form input {
-	border-color: #D3D3D3;
-
-}
 
 form label {
 	text-align: left;
 	display: inherit;
-}
-
-form {
-	background-color: white;
-	width: 320px;
-	padding-right: 40px;
-	padding-left: 40px;
-	border-top: white 20px;
 }
 
 .inputbutton {
@@ -52,6 +48,8 @@ button {
 	display: inherit;
 	background-color: #37e231;
 	border-radius: 5px;
+	font-size: 20px;
+	font-stretch: expanded;
 }
 
 button:hover {
@@ -60,17 +58,24 @@ button:hover {
 }
 form a {
 	color: #D3D3D3;
+	text-align: center;
+	display: inherit;
+	padding-top: 20px;
+
 }
 
 .text {
 		color: white;
 		margin: auto;
+		text-align: center;
+		padding-top: 10px;
 }
 
 p a {
-	text-decoration: none;
+	color: white;
 }
 
-form a {
-	
+body p {
+	margin-top: 20px;
 }
+
