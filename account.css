@@ -1,0 +1,24 @@
+*{
+	border: 3px solid black;
+}
+
+
+body {
+	background-color: #79a5ea;
+	margin: auto;
+}
+
+img {
+	height: 35px;
+	margin: auto;
+}
+
+#signup {
+	background-color: white;
+
+}
+
+body p {
+		color: white;
+}
+
