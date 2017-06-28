@@ -25,9 +25,10 @@ form {
 	padding: 40px;
 	border-top: white 20px;
 	border-radius: 5px;
+	height: 320px;
 }
 
-form h1 {
+legend {
 	text-align: center;
 }
 
