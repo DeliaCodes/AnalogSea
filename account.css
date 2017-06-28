@@ -1,31 +1,69 @@
-<<<<<<< HEAD
+/*
 *{
 	border: 3px solid black;
 }
-
+*/
+* {
+	margin: auto;
+	font-family: Arial, serif;
+}
 
 body {
 	background-color: #79a5ea;
-	margin: auto;
 }
 
 img {
 	height: 35px;
-	margin: auto;
+	margin-top: 20px;
+	display: inherit;
+    margin-bottom: 20px;
 }
 
-#signup {
+form h1 {
+	text-align: center;
+}
+
+form input {
+	border-color: #D3D3D3;
+
+}
+
+form label {
+	text-align: left;
+	display: inherit;
+}
+
+form {
 	background-color: white;
-
+	width: 320px;
+	padding-right: 40px;
+	padding-left: 40px;
+	border-top: white 20px;
 }
 
-body p {
+.inputbutton {
+	padding: 15px;
+	width: 320px;
+	height: 38px;
+	border: 2px;
+}
+
+button {
+	display: inherit;
+	background-color: green;
+	border-radius: 5px;
+
+}
+form a {
+	color: #D3D3D3;
+}
+
+.text {
 		color: white;
+		margin: auto;
 }
 
-=======
-/* *{
-	border: 3px solid black;
+p a {
+	text-decoration: none;
 }
-*/
->>>>>>> 7ad11a7b07538205938a1bfcaa83b0a287612fb9
+
