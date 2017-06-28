@@ -50,8 +50,12 @@ form {
 
 button {
 	display: inherit;
-	background-color: green;
+	background-color: #37e231;
 	border-radius: 5px;
+}
+
+button:hover {
+	background-color: green;
 
 }
 form a {
