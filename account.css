@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+/*
 *{
 	border: 3px solid black;
 }
-
+*/
 
 body {
 	background-color: #79a5ea;
@@ -16,16 +16,13 @@ img {
 
 #signup {
 	background-color: white;
-
+	margin: auto;
 }
 
 body p {
 		color: white;
 }
 
-=======
-/* *{
-	border: 3px solid black;
+form a {
+	
 }
-*/
->>>>>>> 7ad11a7b07538205938a1bfcaa83b0a287612fb9
